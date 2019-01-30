@@ -2,6 +2,7 @@
 layout: page
 title: About me
 subtitle: Why you'd want me as your coach
+bigimg: /img/gino_cover_lowres_dark.jpg
 ---
 
 My name is Gino Galotti. You killed my father. These are the reasons why I think I'm cool:
