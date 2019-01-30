@@ -3,7 +3,7 @@ layout: post
 title: Let's organise a improv-party show!
 bigimg: /img/party-cover-lowres.jpg
 shareimg: /img/party-cover-lowres.jpg
-tags: Improv, Improv Comedy Copenhagen, ICC, Backline, Short Form, Mantown, Format, Improv Games
+tags: Short Form, Format, Improv Games
 ---
 
 Improv theatres like to experiment with new and colourful formats. People can only watch so many Harolds before craving crazier shows! That is why party-style shows sound so appealing to audiences and theatre managers. Recently we started doing it [at the theatre I'm part of](https://www.improvcomedy.eu/), and I have spent a lot of time thinking of how to craft my ultimate version! In this post, we will explore together the elements that can enhance this format.
