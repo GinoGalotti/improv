@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Let's organise a improv-party show!
-bigimg: /img/party-cover-lowres.jpg
-shareimg: /img/party-cover-lowres.jpg
+bigimg: /img/sequels-party.jpg
+shareimg: /img/sequels-party.jpg
 tags: Short Form, Format, Improv Games
 ---
 
