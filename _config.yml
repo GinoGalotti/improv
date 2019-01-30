@@ -23,6 +23,9 @@ description: My personal journey through Improv
 
 # List of links in the navigation bar
 navbar-links:
+  Blog: ""
+  Who am I: "aboutme"
+  #Subscribe: "subscribe"
   #Home: ""
   #About Me: "aboutme"
   #Resources:
