@@ -8,7 +8,7 @@ tags: Improv-in-English, Discussion
 
 Improvisation is expanding every year. Last time I checked, only 13% of people mentioning "improvisation" on Facebook (using Facebook audiences) came from the USA. Next on the list, there was 10% coming from Mexico, 10% from Brazil and 5% from Italy. I love seeing this art form is spreading everywhere! 
 
-Personally, like many others, I made the decision to learn, perform and teach improv in English. But there is a subject that has always interested me: how is practising it in English affecting our performances? 
+Personally, like many others, I made the decision to learn and perform improv in English. But there is a subject that has always interested me: how is practising it in English affecting our performances? 
 
 I am not talking about the obvious, like feeling less comfortable playing with accents or not sharing cultural references. I mean how does it affect our way of playing. Are there any formats which are intrinsically harder? Or games that are easier? Is there any way we can adapt our classes to an international crowd? These are the kind of questions I have been asking around my theatre, and here are some of the ideas we talked about.
 
