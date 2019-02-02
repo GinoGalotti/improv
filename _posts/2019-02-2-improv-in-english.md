@@ -12,7 +12,7 @@ Personally, like many others, I made the decision to learn, perform and teach im
 
 I am not talking about the obvious, like feeling less comfortable playing with accents or not sharing cultural references. I mean how does it affect our way of playing. Are there any formats which are intrinsically harder? Or games that are easier? Is there any way we can adapt our classes to an international crowd? These are the kind of questions I have been asking around my theatre, and here are some of the ideas we talked about.
 
-As a very short background: I'm Gino, a Spaniard who started improvising in Denmark. On my first class, there were 3 Danes, 2 native English-speakers and 10 from anywhere else. On my team when I graduated, a third were Danes and a third were native speakers. Was there any preventable reason to avoid such a big drop out? Is there any way to support them so we have a more diverse cast? You can read a little bit more about [my background here](theatrebackground.html), so we can keep the conversation focused!
+As a very short background: I'm Gino, a Spaniard who started improvising in Denmark. On my first class, there were 3 Danes, 2 native English-speakers and 10 from anywhere else. On my team when I graduated, a third were Danes and a third were native speakers. Was there any preventable reason to avoid such a big drop out? Is there any way to support them so we have a more diverse cast? You can read a little bit more about [my background here](https://ginogalotti.github.io/improv/theatrebackground/), so we can keep the conversation focused!
 
 # How is this affecting us?
 
