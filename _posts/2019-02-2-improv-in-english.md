@@ -6,7 +6,7 @@ shareimg: /img/uk-and-usa.jpg
 tags: Improv-in-English, Discussion
 ---
 
-Improvisation is expanding every year. Last time I checked, only 13% of people mentioning "improvisation" on Facebook (using Facebook audiences) came from the USA. Next on the list, there was 10% coming from Mexico, 10% from Brazil and 5% from Italy. I love seeing this art form is spreading everywhere! 
+Improvisation is expanding every year. Last time I checked, only 13% of people mentioning "improvisation" on Facebook (using Facebook audiences) came from the USA. Following, on the list, there were 10% coming from Mexico, 10% from Brazil and 5% from Italy. I love seeing this art form is spreading everywhere! 
 
 Personally, like many others, I made the decision to learn and perform improv in English. But there is a subject that has always interested me: how is practising it in English affecting our performances? 
 
@@ -22,9 +22,9 @@ I sometimes need an extra second on fast-paced games. I am talking about many sh
 
 I didn't realise I struggled till I went to London, joined a workshop (where I was the only non-native speaker), and we played exercises that focused on getting into the "intuition" headspace. [Alan Marriott](https://www.londonimprovtheatre.com/workshops-alan-marriott) explained to us the three ways of reactions. Reacting emotionally, just following our guts, most of the times we just make sounds and grunts. Intellectually, when we process and find the correct answer. And intuitively, that feeling of being on autopilot, you are not aware of the answer till after you say it. 
 
-We stated how important was to improvise on an intuitive state and practice with many exercises. In one of those, we had to objects from an imaginary box at such a fast pace that you couldn't prepare what came near. It took most people 40-60 objects within a couple of minutes to get there, but I found it was impossible to achieve that in English for me. Those 5 milliseconds, which I'm not aware of, that I need to come with the English word was wrecking the exercise for me. When I switched to Spanish.. it felt so easy!
+We stated how important was to improvise on an intuitive state and practice with many exercises. In one of those, we had to pull objects from an imaginary box at such a fast pace that you couldn't prepare what came near. It took most people 40-60 things within a couple of minutes to get there, but I found it was impossible to achieve that in English for me. Those 5 milliseconds, which I'm not aware of, that I need to come with the English word was wrecking the exercise for me. When I switched to Spanish.. it felt so easy!
 
-So I'm not concerned about the things I know I'm limited by improvising in English... But all the other things that are being affected without me realising it!!
+So I'm not concerned about what I know I'm limited by improvising in English... But all the other things that are being affected without me realising it!!
 
 # What to keep in mind while playing with us
 
@@ -34,7 +34,7 @@ The more physical it is, the more inclusive. I might be biased by having a Comme
 
 Be mindful with techniques such a tag runs or some fast openings. I love playing those games. But I have to admit, I enjoy it more when I have a supportive cast who understand that speed won't be my forte. I will, of course, chip in; but I get anxious when feeling that I have to carry the game.
 
-# Which strenghts we bring to the table
+# Which strengths we bring to the table
 
 I deeply believe there are many advantages of having a more diverse cast, in any possible way. 
 
@@ -60,4 +60,4 @@ There are no ads on this blog. I am not selling workshops. You can't even come t
 
 What are your experiences with this? Is English your mother tongue? Which exercises are you finding particularly hard? Do you teach? 
 
-Feel free to engage in the comments below. If you want to further study this subject, or you want to share something, my email is more than open: gino.galotti@gmail.com. I am planning to keep asking around and learning about this, so this won't be my last post about improvising as a non native English-speaker. 
+Feel free to engage in the comments below. If you want to further study this subject, or you want to share something, my email is more than open: gino.galotti@gmail.com. I am planning to keep asking around and learning about this, so this won't be my last post about improvising as a non-native English speaker. 

@@ -6,15 +6,14 @@ bigimg: /img/profile.jpg
 # Add some way to receive notifications when a new email happens 
 ---
 
-I am a Spanish guy who has been working and living abroad using English for the last four years. I am in a point where I only use my mother tongue during my weekly catch up with my parents. I consume all my media, I communicate with my Canadian partner and I write in English. Sure, I still have a funny accent, and I do a poor job enunciating (even in Spanish); but I rarely feel that using English is hindering any of my interactions.
 
-I have moved to Copenhagen almost three years ago and, for the last two, I have been part of the first (and only) English Improv Theatre. It was founded by a Danish actor who discovered the healing power of improv doing long form with Chicago IO. 
+I am a Spanish guy who has been working and living abroad using English for the last four years. I am in a point where I only use my mother tongue during my weekly catch up with my parents. I consume all my media, I communicate with my Canadian partner and I write in English. Sure, I still have a funny accent, and I do a poor job enunciating (even in Spanish); but I rarely feel that using English is hindering my interactions.
+
+I moved to Copenhagen three years ago and, for the last two, I have been part of the first (and only) English Improv Theatre. It was founded by a Danish actor who discovered the healing power of improv doing long form with Chicago IO. 
 
 This theatre is one of the few English-speaking entertainment choices in the city. We have a handful of house teams where (without having the data at hand) 50% are Danish, 35% English -native speakers and 15% the rest. It makes sense. Danes, on average, have a very high level of English; and there are the most common in the cities.
 
 In the classes, you have a different picture. True, when I graduated from the last level, we were 5 English-native, 5 Danes and 5 from the rest (Spain, Portugal...). On the other hand, most first levels only count with a few Danes and one-two native speaker; being the rest (12-15) the biggest group. Is there any way to support them so we have a more diverse cast?
-
-Let's delve into that.
 
 # The classes
 
@@ -28,7 +27,7 @@ Personally, I realised very early that any game involving singing or rhyming... 
 
 # The shows
 
-After this training, it is pretty obvious that most of our nights are Harold-esque. We mainly have long-form, but we are pushing for more short-form nights now with our new artistic director. There are many changes that are just about to come, so I will focus on how were the shows during my studies.
+After this training, it is pretty obvious that most of our nights are Harold-esque. We mainly have long-form, but we are pushing for more short-form nights now with our new artistic director. There are many changes that are just about to come so I will focus on how were the shows during my studies.
 
 The cast is mainly the first generation of improvisers. Half of them are Danish, the other half from an anglophone country, and two or three from the rest of Europe. 
 
