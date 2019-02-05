@@ -38,6 +38,8 @@ What shall we keep in mind if we are playing with (or teaching) a non-anglophone
 
 **Be mindful with techniques such a tag runs or some fast openings**. I love fast-paced games. But, I have to admit, I enjoy them more with a supportive cast who understand that speed won’t be my forte. I will, of course, chip in; but I get anxious when feeling that I have to be the one driving them.
 
+**The level of comfort in speaking English has implications for establishing the platform of the scene**. Kadi, a fellow improviser - who happens to study the use of English as _lingua franca_ - shared this thought with me. "I don't hold the view that those of us who use English as a (daily) second language are therefore broken or faulty and should aspire to some sort of _native_ standard. But I do think that at times there should be more focus on having each other's back linguistically speaking too when we're being trained to do improv scenes. I see that as part and parcel of learning to do scenes with literally anyone - we all have different strengths as improvisers".
+
 # The strengths non-native speakers bring to the table.
 
 I deeply believe that there are many advantages of having a more diverse (in any possible way) cast.
