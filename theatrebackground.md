@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Theatre background
-subtitle: A little bit of my improv story
-bigimg: /img/profile.jpg
+subtitle: A little piece of my improv story
+bigimg: https://ginogalotti.github.io/improv/img/profile.jpg
+share-img: https://ginogalotti.github.io/improv/img/profile.jpg
 # Add some way to receive notifications when a new email happens 
 ---
 
