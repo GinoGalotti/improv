@@ -2,7 +2,7 @@
 layout: page
 title: About me
 subtitle: Why you'd want me as your coach
-bigimg: https://ginogalotti.github.io/improv/img/gino_cover_lowres_dark.jpg
+bigimg: /img/gino_cover_lowres_dark.jpg
 share-img: https://ginogalotti.github.io/improv/img/gino_cover_lowres_dark.jpg
 ---
 
