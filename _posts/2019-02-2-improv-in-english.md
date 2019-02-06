@@ -28,7 +28,7 @@ I didn’t realise English was subconsciously affecting my game until I joined a
 
 He explained how powerful it is to improvise in that state and proposed some exercises. In one of those, we had to pull objects from an imaginary box at such a fast pace that you couldn’t prepare what came next. Most people needed 40-60 things within a couple of minutes to get to a point of no thinking, but I found it impossible to achieve in English. Those 5 milliseconds - which I wasn’t aware I needed - to come with the word was wrecking the exercise for me. When I switched to Spanish... it felt so easy!
 
-And I am not even concerned about all the ways I know English is limiting my improv… It's all the other things which are being affected without me being aware that want to learn!!
+And I am not even concerned about all the ways I know English is limiting my improv… I want to discover all the other aspects which are being affected without me being aware!!
 
 # What to keep in mind when playing with non-native speakers.
 
@@ -44,11 +44,13 @@ What shall we keep in mind if we are playing with (or teaching) a non-anglophone
 
 I deeply believe that there are many advantages of having a more diverse (in any possible way) cast.
 
-The most obvious one? It brings new voices, new points of view to the set. There is a new world of possibilities that I bring to the table. We will have different cultural references, with all the nuances that brings. And I am not only referring to your TV references (luckily, we can’t use any in our theatre with such a diverse audience!).
+The most obvious one? **It brings new voices**, new points of view to the set. There is a new world of possibilities that I bring to the table. We will have different cultural references, with all the nuances that brings. And I am not only referring to your TV references (luckily, we can’t use any in our theatre with such a diverse audience!).
 
 Bringing communism to this scene? It will be enhanced by having our Romanian partner, whose family was really affected by those years. Playing that Italian waiter? You will play it to the top of your intelligence with your Milanese friend on the side.
 
-Having command over several languages is a very powerful perk, especially when your theatre is located next to a hostel. I have seen roaring laughter when cast members failed to deliver a common phrase in Danish; or using your mother tongue to enhance a scene, giving that extra golden nugget to some lucky audience members. There are countless short-form games where we can use this. I have a lovely memory of a Romanian friend performing a scene in Spanish only with the telenovela lines she learnt from TV!
+Having command over several languages is a very powerful perk, especially when your theatre is located next to a hostel. I have seen roaring laughter when cast members failed to deliver a common phrase in Danish; or **using your mother tongue to enhance a scene, giving that extra golden nugget to some lucky audience members**. There are countless short-form games where we can use this. I have a lovely memory of a Romanian friend performing a scene in Spanish only with the telenovela lines she learnt from TV!
+
+**Take all those little mistakes as gifts**. If your scene partner is comfortable with it, you can honour how they non-native misspronounce some words to inspire an scene. During one of CIIF festival's main shows, the only non-American performer pronounced _jail walking_ instead of _jaywalking_; and that served as inspiration for the entire performance!
 
 And I can't even count all the different uses of English we make just by being polyglots. I really recommend [this amazing TED talk explaining how languages shape your way of thinking](https://www.ted.com/talks/lera_boroditsky_how_language_shapes_the_way_we_think?utm_source=whatsapp&utm_medium=social&utm_campaign=tedspread).
 
