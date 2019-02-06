@@ -28,7 +28,7 @@ I didn’t realise English was subconsciously affecting my game until I joined a
 
 He explained how powerful it is to improvise in that state and proposed some exercises. In one of those, we had to pull objects from an imaginary box at such a fast pace that you couldn’t prepare what came next. Most people needed 40-60 things within a couple of minutes to get to a point of no thinking, but I found it impossible to achieve in English. Those 5 milliseconds - which I wasn’t aware I needed - to come with the word was wrecking the exercise for me. When I switched to Spanish... it felt so easy!
 
-And I am not even concerned about all the ways I know English is limiting my improv… I want to discover all the other aspects which are being affected without me being aware!!
+What concerns me is all the ways improvising in English is affecting my performance, without me being aware. I can only work with something if I am aware of it!
 
 # What to keep in mind when playing with non-native speakers.
 
@@ -52,7 +52,7 @@ Having command over several languages is a very powerful perk, especially when y
 
 **Take all those little mistakes as gifts**. If your scene partner is comfortable with it, you can honour how they non-native misspronounce some words to inspire an scene. During one of CIIF festival's main shows, the only non-American performer pronounced _jail walking_ instead of _jaywalking_; and that served as inspiration for the entire performance!
 
-And I can't even count all the different uses of English we make just by being polyglots. I really recommend [this amazing TED talk explaining how languages shape your way of thinking](https://www.ted.com/talks/lera_boroditsky_how_language_shapes_the_way_we_think?utm_source=whatsapp&utm_medium=social&utm_campaign=tedspread).
+Finally, I can't even count all the different uses of English we make just by being polyglots. I really recommend [this amazing TED talk explaining how languages shape your way of thinking](https://www.ted.com/talks/lera_boroditsky_how_language_shapes_the_way_we_think?utm_source=whatsapp&utm_medium=social&utm_campaign=tedspread).
 
 # People working with the impact language has on improv.
 
