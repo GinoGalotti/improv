@@ -128,10 +128,10 @@ google_analytics: "UA-63334703-1"
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "improve-in-improv"
+#disqus: "improve-in-improv"
 
 # To use Facebook Comments, fill in a Facebook App ID
-# fb_comment_id: ""
+fb_comment_id: "240697300172184"
 
 # Staticman support
 staticman:
