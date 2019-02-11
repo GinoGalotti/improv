@@ -25,7 +25,7 @@ description: My personal journey through improvisation
 navbar-links:
   Blog: ""
   Who am I: "aboutme"
-  #Subscribe: "subscribe"
+  Subscribe: "subscribe"
   #Home: ""
   #About Me: "aboutme"
   #Resources:
