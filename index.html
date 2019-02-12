@@ -20,8 +20,13 @@ use-site-title: true
     </a>
 
     <p class="post-meta">
-      Posted on {{ post.date | date: "%B %-d, %Y" }}
-    </p>
+        <ul class="list-inline">
+          <li class="date-post">
+          Posted on {{ page.date | date: "%B %-d, %Y" }} 
+          </li>
+        {% include reading-time.html text=content %} 
+        </ul>
+      </p>
 
     <div class="post-entry-container">
       {% if post.image %}
