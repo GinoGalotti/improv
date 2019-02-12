@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Subscribe
-subtitle: Receive email updates when new posts are published.
+subtitle: Become part of the assembly!
 bigimg: /img/bg/facebook_cover_photo_2.png
 share-img: https://ginogalotti.github.io/improv/img/bg/facebook_cover_photo_2.png
 # Add some way to receive notifications when a new email happens 
 ---
 
-If you want to be notified when I write a new post, feel free to join this mail list.
+If you want to be notified when I write a new post, this is the right (and only) way to do it!
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
