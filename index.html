@@ -22,9 +22,9 @@ use-site-title: true
     <p class="post-meta">
         <ul class="list-inline">
           <li class="date-post">
-          Posted on {{ page.date | date: "%B %-d, %Y" }} 
+          Posted on {{ post.date | date: "%B %-d, %Y" }} 
           </li>
-        {% include reading-time.html text=content %} 
+        {% include reading-time.html text=post.content %} 
         </ul>
       </p>
 
