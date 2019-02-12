@@ -2,8 +2,8 @@
 layout: page
 title: Subscribe
 subtitle: Receive email updates when new posts are published.
-bigimg: /img/facebook_cover_photo_2.png
-share-img: https://ginogalotti.github.io/improv/img/facebook_cover_photo_2.png
+bigimg: /img/bg/facebook_cover_photo_2.png
+share-img: https://ginogalotti.github.io/improv/img/bg/facebook_cover_photo_2.png
 # Add some way to receive notifications when a new email happens 
 ---
 
