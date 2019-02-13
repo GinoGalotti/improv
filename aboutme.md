@@ -6,11 +6,12 @@ bigimg: /img/gino_cover_lowres_dark.jpg
 share-img: https://ginogalotti.github.io/improv/img/gino_cover_lowres_dark.jpg
 ---
 
-My name is Gino Galotti. You killed my father. These are the reasons why I think I'm cool:
+My name is Gino Galotti. You killed my father. These are the reasons why I think I am cool:
 
 - I am an engineer, so I overthink any hobby I join
 - I'm doing improv in Copenhagen (Denmark)
 - I read way too much
+- My mum says I am cool.
 
 What else do you need?
 
