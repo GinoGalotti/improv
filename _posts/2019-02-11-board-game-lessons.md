@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Board games to improvise better with your assembly
+title: Board games to improve your improv (or just to have fun)
 bigimg: /img/dice-in-hand.jpg
 share-img: https://ginogalotti.github.io/improv/img/dice-in-hand.jpg
 tags: Board-Game, Ways-To-Learn
