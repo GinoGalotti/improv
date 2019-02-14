@@ -36,14 +36,12 @@
 		  {% endif %}
 		  
 		  {% if include.type == "post" %}
-		  <span class="post-meta">
-          <ul class="list-inline">
-            <li class="date-post">
-            Posted on {{ page.date | date: "%B %-d, %Y" }} 
-            </li>
-          {% include reading-time.html text=content %} 
-          </ul>
-        </span>
+		  <span class="post-meta text-muted small">
+        <ul class="list-inline">
+        {% include date.html %}{{ time }}
+        {% include reading-time.html text=content %} 
+        </ul>
+   </span>
 		  {% endif %}
         </div>
       </div>
@@ -68,7 +66,11 @@
 		  {% endif %}
 		  
 		  {% if include.type == "post" %}
-		  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
+		  <span class="post-meta text-muted small">
+        <ul class="list-inline">
+        {% include date.html %}{{ time }}
+        {% include reading-time.html text=content %} 
+        </ul>
 		  {% endif %}
         </div>
       </div>

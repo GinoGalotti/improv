@@ -313,6 +313,30 @@ footer .theme-by {
   }
 }
 
+/* --- Post meta --- */
+
+.archives .post-meta .list-inline li {
+  font-size: 12pt;
+}
+
+.post-meta .list-inline li:not(:last-child):after {
+ margin-left: 10px;
+ content: "\2022";
+}
+
+.post-meta .list-inline.social-sharing li:after {
+  content: "";
+  margin-left: 0;
+}
+
+.post-meta .mdl2 {
+  vertical-align: middle;
+}
+
+.title {
+  font-size: 16pt;
+}
+
 /* --- Post preview --- */
 
 .post-preview {
@@ -350,13 +374,14 @@ footer .theme-by {
   font-weight: 300;
   margin-bottom: 10px;
 }
-.post-preview .post-meta,
+/* .post-preview .post-meta,
 .post-heading .post-meta {
   color: #808080;
   font-size: 18px;
   font-style: italic;
   margin: 0 0 10px;
-}
+} */
+
 .post-preview .post-entry {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }

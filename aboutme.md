@@ -15,7 +15,7 @@ My name is Gino Galotti. You killed my father. These are the reasons why I think
 
 What else do you need?
 
-### my history
+### My history
 
 I was born in Tenerife, although no one knows why I ended up in one of the coldest places on Earth. I still keep my funny accent. If you want to know more, just ask.
 

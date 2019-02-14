@@ -19,14 +19,12 @@ use-site-title: true
 	  {% endif %}
     </a>
 
-    <p class="post-meta">
-        <ul class="list-inline">
-          <li class="date-post">
-          Posted on {{ post.date | date: "%B %-d, %Y" }} 
-          </li>
-        {% include reading-time.html text=post.content %} 
-        </ul>
-      </p>
+    <span class="post-meta text-muted small">
+      <ul class="list-inline">
+      {% include date.html text=content %}{{ time }}
+      {% include reading-time.html text=post.content %} 
+      </ul>
+ </span>
 
     <div class="post-entry-container">
       {% if post.image %}
