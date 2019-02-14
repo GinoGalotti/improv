@@ -26,7 +26,7 @@ common-js:
   
     {% include nav.html %}
 
-    {{ content }}
+    {{ content | replace: '<a href="http', '<a rel="nofollow" target="_blank" href="http' }}
 
     {% include footer.html %}
   

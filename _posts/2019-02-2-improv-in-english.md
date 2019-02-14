@@ -13,7 +13,7 @@ I made the decision to learn and perform improv in English, like many others. Bu
 
 I am not talking about the obvious, like feeling less comfortable with accents or not sharing the same cultural references. I mean how does improvising in a non-native language affect our way of playing? Are there any formats which are harder because of it? Or easier games? Can we adapt our classes to an international crowd? I have been asking this questions around my theatre and decided to also share it with you guys.
 
-As a very short background (you can read [the long version here](https://ginogalotti.github.io/improv/theatrebackground/)): I’m Gino, a Spaniard who started improvising in Denmark. On my first class, there were 3 Danes, 2 native English-speakers and 10 from everywhere else. When I graduated, a third were Danes and a third were native speakers. Can we avoid such a big drop out of non-native speakers? Can we support them so we have a more diverse cast?
+As a very short background (you can read [the long version here](/improv/theatrebackground/)): I’m Gino, a Spaniard who started improvising in Denmark. On my first class, there were 3 Danes, 2 native English-speakers and 10 from everywhere else. When I graduated, a third were Danes and a third were native speakers. Can we avoid such a big drop out of non-native speakers? Can we support them so we have a more diverse cast?
 
 # How is improvising outside our mother tongue affecting us?
 
