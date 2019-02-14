@@ -1,5 +1,4 @@
 {% assign caption = {{include.picture}} %}
-
-{% if has_date != '0' %}
+{% if caption.size > 0 or caption.size > 0 %}
     <li><span class="mdl2 mdl2-camera"></span>{{caption}}</li>
 {% endif %}
