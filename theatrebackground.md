@@ -4,6 +4,7 @@ title: Theatre background
 subtitle: A little piece of my improv story
 bigimg: /img/profile.jpg
 share-img: https://ginogalotti.github.io/improv/img/profile.jpg
+picture-caption: me performing at the ICC
 # Add some way to receive notifications when a new email happens 
 ---
 

@@ -4,6 +4,7 @@ title: Let's organise a improv-party show!
 bigimg: /img/sequels-party.jpg
 share-img: https://ginogalotti.github.io/improv/img/sequels-party.jpg
 tags: Short-Form, Format, Improv-Games
+picture-caption: from pexels.com
 ---
 
 Improv theatres like to experiment with new and colourful formats. People can only watch so many Harolds before craving crazier shows! That is why party-style shows sound so appealing to audiences and theatre managers. Recently we started doing it [at the theatre I'm part of](https://www.improvcomedy.eu/), and I have spent a lot of time thinking of how to craft my ultimate version! In this post, we will explore together the elements that can enhance this format.

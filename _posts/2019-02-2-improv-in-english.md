@@ -4,6 +4,7 @@ title: Doing improv outside of your mother tongue
 bigimg: /img/uk-and-usa.jpg
 share-img: https://ginogalotti.github.io/improv/img/uk-and-usa.jpg
 tags: Improv-in-English, Discussion
+picture-caption: from pexels.com
 ---
 
 Improv as an artform is gaining ground in more countries every year. Last time I checked, only 13% of people mentioning “improvisation” on Facebook (using Facebook audiences) came from the USA. Next on the list, there was Mexico with 10%, Brazil with 10% and Italy with 5% . It is amazing seeing how improvisation spreads!

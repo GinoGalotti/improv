@@ -39,7 +39,8 @@
 		  <span class="post-meta text-muted small">
         <ul class="list-inline">
         {% include date.html %}{{ time }}
-        {% include reading-time.html text=content %} 
+        {% include reading-time.html text=content %}
+        {% include picture.html picture=page.picture %}
         </ul>
    </span>
 		  {% endif %}

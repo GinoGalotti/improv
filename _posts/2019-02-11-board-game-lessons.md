@@ -4,6 +4,7 @@ title: Board games to improve your improv (or just to have fun)
 bigimg: /img/dice-in-hand.jpg
 share-img: https://ginogalotti.github.io/improv/img/dice-in-hand.jpg
 tags: Board-Game, Ways-To-Learn
+picture-caption: from pexels.com
 ---
 
 Spending time with my assemble off stage undoubtedly improves my game. I love these guys, but a friendship is not something that will magically happen. I am lucky to have a huge boardgame cafe right next to our Improv Theatre, and we have spent many hours there! Personally, I find it as one of the easiest ways to bond! And I have **so much** fun playing games!

@@ -4,6 +4,7 @@ title: Subscribe
 subtitle: Become part of the assembly!
 bigimg: /img/bg/facebook_cover_photo_2.png
 share-img: https://ginogalotti.github.io/improv/img/bg/facebook_cover_photo_2.png
+picture-caption: pretty ok for my first logo, isn't it?
 # Add some way to receive notifications when a new email happens 
 ---
 

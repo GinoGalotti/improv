@@ -4,6 +4,7 @@ title: About me
 subtitle: Why you'd want me as your coach
 bigimg: /img/gino_cover_lowres_dark.jpg
 share-img: https://ginogalotti.github.io/improv/img/gino_cover_lowres_dark.jpg
+picture-caption: me pretending to look fancy
 ---
 
 My name is Gino Galotti. You killed my father. These are the reasons why I think I am cool:
