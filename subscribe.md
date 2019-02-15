@@ -3,7 +3,7 @@ layout: page
 title: Subscribe
 subtitle: Become part of the assembly!
 bigimg: /img/bg/facebook_cover_photo_2.png
-share-img: https://ginogalotti.github.io/improv/img/bg/facebook_cover_photo_2.png
+share-img: https://improv.ginogalotti.com/improv/img/bg/facebook_cover_photo_2.png
 picture-caption: looks pretty nice for my first logo, doesn't it?
 # Add some way to receive notifications when a new email happens 
 ---
