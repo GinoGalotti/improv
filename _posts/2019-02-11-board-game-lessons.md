@@ -12,7 +12,7 @@ Spending time with my assemble off stage undoubtedly improves my game. I love th
 Today I want to talk about five of my favorite social games, and why do I think playing them makes us a better team. Hopefully, you will feel inspired and play! I have picked some very well known games this time, I am sure you have already heard about many of them. So, let's start!
 
 # Codenames - Vlaada Chvátil
-[**Game**](https://www.amazon.co.uk/gp/product/B014Q1XX9S/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=callmegino-21&creative=6738&linkCode=as2&creativeASIN=B014Q1XX9S&linkId=d87f0427cd20e7e4038f8fe001bba976) | [**Rules video**](https://youtu.be/zQVHkl8oQEU)
+[**Game**](https://www.amazon.co.uk/Codenames/dp/B07JM95J64/ref=as_li_ss_tl?ie=UTF8&qid=1550225929&sr=8-1&keywords=codenames&linkCode=ll1&tag=callmegino-21&linkId=d896f99db2ac741b4efdd9c45fa6676e&language=en_GB) | [**Rules video**](https://youtu.be/zQVHkl8oQEU)
 
 On this game, one player gives a one-word clue to help their team find a number of images. It is very easy to teach and caters both to competitive and cooperative minds. Personally, we play the picture version more often.
 
@@ -21,7 +21,7 @@ I love this way because it really tests if a group is on the same wavelength. Yo
 I think it helps a lot to understand how your ensemble thinks. You can see a visual representation of the connections they are making, and you will be painfully aware of which references fall flat. 
 
 # Dixit 
-[**Game**](https://www.amazon.co.uk/gp/product/B001OH9EDW/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=callmegino-21&creative=6738&linkCode=as2&creativeASIN=B001OH9EDW&linkId=b946853b45c6b9c535cc84d42114cc19) | [**Rules video**](https://youtu.be/Qi4MoW6NuaQ)
+[**Game**](https://www.amazon.co.uk/Libellud-200706-Dixit-Board-Game/dp/B001OH9EDW/ref=as_li_ss_tl?ie=UTF8&qid=1550225959&sr=8-1&keywords=Dixit&linkCode=ll1&tag=callmegino-21&linkId=37f0f30fc6a1adf8dff2b5cec62e6cd2&language=en_GB) | [**Rules video**](https://youtu.be/Qi4MoW6NuaQ)
 
 One player selects a picture and uses a word to describe it. Then, the rest select a card from their hand that matches that description. Now it is guessing the time! You have to pick the original one. You win if you manage to make as few people as possible guess your card (but at least one!). The artwork is truly astonishing!
 
@@ -30,7 +30,7 @@ This game is amazing to capitalize on some inside joke, to then realize that som
 Dixit helps a lot to know how your scene partners get inspired. It also helps seeing if someone understand your dark references. The game serves as a way to test many inside jokes, and to understand what does your friend pay attention when looking at a picture!
 
 # CAH
-[**Game**](https://www.amazon.co.uk/gp/product/B00DTXYCOU/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=callmegino-21&creative=6738&linkCode=as2&creativeASIN=B00DTXYCOU&linkId=3bbdf882c5f494b7cf1cd9881ee51257) | [**Rules video**](https://youtu.be/9eRjn4Ken0c)
+[**Game**](https://www.amazon.co.uk/Cards-Against-Humanity-UK-edition/dp/B00DTXYCOU/ref=as_li_ss_tl?s=kids&ie=UTF8&qid=1550225996&sr=1-2&keywords=Cards+against+humanity&linkCode=ll1&tag=callmegino-21&linkId=13a80f207777842422835dedc43fa9ef&language=en_GB) | [**Rules video**](https://youtu.be/9eRjn4Ken0c)
 
 I know you know about CAH so I will be quick. Someone reads a statement with a blank, and the rest use their cards to fill the blank. It is inappropriate, random and hilarious.
 
@@ -48,7 +48,7 @@ Secret Hitler is, for me, the funniest social deduction game. It has almost no d
 Secret Hitler teaches you how to be more convincing, as well as understanding how believable a scene partner is. There are always status games inside any group, and I find useful to understand who drives them. 
 
 # Spyfall
-[**Game**](https://www.amazon.co.uk/gp/product/B01MRVIURU/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=callmegino-21&creative=6738&linkCode=as2&creativeASIN=B01MRVIURU&linkId=14f9aab5ec0da6b35893485121c4c395) | [**Rules video**](https://youtu.be/GqLl6_UlD88)
+[**Game**](https://www.amazon.co.uk/Cryptozoic-Entertainment-CZE02128-Spyfall-Game/dp/B01MRVIURU/ref=as_li_ss_tl?s=kids&ie=UTF8&qid=1550226025&sr=1-2&keywords=Spyfall&linkCode=ll1&tag=callmegino-21&linkId=4249c6d33e30c8a84fab155c94a86e8d&language=en_GB) | [**Rules video**](https://youtu.be/GqLl6_UlD88)
 
 A hidden identity game where everyone but the spy has a role and knows the location. Time is limited, and you have to decide who is the spy before it runs out. You can also play it [using this web app](https://spyfall.crabhat.com/).
 
