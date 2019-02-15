@@ -11,3 +11,21 @@ footer.footer-min {
   border-top: 1px solid #eeeeee;
   text-align: center;
 }
+
+.archives .post-meta .list-inline li {
+  font-size: 12pt;
+}
+
+.post-meta .list-inline li:not(:last-child):after {
+ margin-left: 10px;
+ content: "\2022";
+}
+
+.post-meta .list-inline.social-sharing li:after {
+  content: "";
+  margin-left: 0;
+}
+
+.post-meta .mdl2 {
+  vertical-align: middle;
+}

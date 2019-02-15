@@ -8,7 +8,6 @@ picture-caption: is me performing at the ICC
 # Add some way to receive notifications when a new email happens 
 ---
 
-
 I am a Spanish guy who has been working and living abroad using English for the last four years. I am in a point where I only use my mother tongue during my weekly catch up with my parents. I consume all my media, I communicate with my Canadian partner and I write in English. Sure, I still have a funny accent, and I do a poor job enunciating (even in Spanish); but I rarely feel that using English is hindering my interactions.
 
 I moved to Copenhagen three years ago and, for the last two, I have been part of the first (and only) English Improv Theatre. It was founded by a Danish actor who discovered the healing power of improv doing long form with Chicago IO. 
