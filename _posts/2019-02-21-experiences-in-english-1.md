@@ -3,8 +3,8 @@ layout: post
 title: Your experiences improvising in a second language
 bigimg: /img/posts/red-curtains.jpg
 share-img: https://improv.ginogalotti.com/img/posts/red-curtains.jpg
-tags: Improv-in-English, Discussion
-picture-caption: from pexels.com
+tags: Improv-in-English
+picture-caption: from unsplash.com
 ---
 
 All of you are amazing! After sharing [Improvising Outside of Your Mother Tongue]({{ site.baseurl }}{% post_url 2019-02-02-improv-in-english %}) on an international improv group. What joy to see this topic interests others! In this post, I will make a short summary of some of those experiences. There are so many lessons to learn! As there are too many, I decided to split them into bite-sized posts!
