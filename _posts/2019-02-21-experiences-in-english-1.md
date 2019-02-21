@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Your experiences improvising in a second language
+title: Your experiences improvising in a second language - Being more inclusive
 bigimg: /img/posts/red-curtains.jpg
 share-img: https://improv.ginogalotti.com/img/posts/red-curtains.jpg
 tags: Improv-in-English
 picture-caption: from unsplash.com
 ---
 
-All of you are amazing! What joy to see [Improvising Outside of Your Mother Tongue]({{ site.baseurl }}{% post_url 2019-02-02-improv-in-english %}) interests others! The response after sharing it on an international improv group was incredible. I will make a short summary of some of those experiences in this post. There are so many lessons to learn! There are too many, actuallo. So I decided to split them into bite-sized posts!
+All of you are amazing! What joy to see [Improvising Outside of Your Mother Tongue]({{ site.baseurl }}{% post_url 2019-02-02-improv-in-english %}) interests others! The response after sharing it on an international improv group was incredible. I will make a short summary of some of those experiences in this post. There are so many lessons to learn! There are too many, actuallo. So I decided to split them into bite-sized posts! In this one, I will focus on experiences teaching us how to be more inclusive.
 
 **Disclaimer**: I already announced that I was going to publish these experiences and asked most of you for permission. But, please, if you feel **you want me to take any part of this down or change your name at any point, just tell me**. I appreciate how much you trusted me by sharing this, and I don't want to break that trust by any mean.
 
