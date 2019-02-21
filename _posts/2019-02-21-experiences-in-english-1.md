@@ -2,7 +2,7 @@
 layout: post
 title: Your experiences improvising in a second language
 bigimg: /img/comments-1.jpg
-share-img: https://improv.ginogalotti.com/improv/img/comments-1.jpg
+share-img: https://improv.ginogalotti.com/img/comments-1.jpg
 tags: Improv-in-English, Discussion
 picture-caption: from pexels.com
 ---
