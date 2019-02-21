@@ -7,7 +7,7 @@ tags: Improv-in-English
 picture-caption: from unsplash.com
 ---
 
-All of you are amazing! After sharing [Improvising Outside of Your Mother Tongue]({{ site.baseurl }}{% post_url 2019-02-02-improv-in-english %}) on an international improv group. What joy to see this topic interests others! In this post, I will make a short summary of some of those experiences. There are so many lessons to learn! As there are too many, I decided to split them into bite-sized posts!
+All of you are amazing! What joy to see [Improvising Outside of Your Mother Tongue]({{ site.baseurl }}{% post_url 2019-02-02-improv-in-english %}) interests others! The response after sharing it on an international improv group was incredible. I will make a short summary of some of those experiences in this post. There are so many lessons to learn! There are too many, actuallo. So I decided to split them into bite-sized posts!
 
 **Disclaimer**: I already announced that I was going to publish these experiences and asked most of you for permission. But, please, if you feel **you want me to take any part of this down or change your name at any point, just tell me**. I appreciate how much you trusted me by sharing this, and I don't want to break that trust by any mean.
 
@@ -67,4 +67,4 @@ I am sure you have plenty of experiences as enlightening as the ones from this p
 
 I would love to hear your stories! The last post sparked so many genuine conversations, that  sadly, only people from the Facebook group could enjoy them! I will be active on the comment section down below if you are interested on improvising outside of your mother tongue. If you want someone to talk to without sharing it with everyone, you can also find my email at the bottom of this page.
 
-Lastly, I have just started using MailChimp to notify people when I publish a new post. If you would like to stay on the loop, please [check my subscribe page](/subscribe/).
+Lastly, I have just started using MailChimp to notify people when I publish a new post. If you would like to stay on the loop, please [check my subscribe page](/subscribe/). I have some new articles almost ready, and I think you would love them!
