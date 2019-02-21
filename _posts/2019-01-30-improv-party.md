@@ -3,7 +3,7 @@ layout: post
 title: Let's organise a improv-party show!
 bigimg: /img/sequels-party.jpg
 share-img: https://improv.ginogalotti.com/img/sequels-party.jpg
-tags: Short-Form, Format, Improv-Games
+tags: Short-Form, Format
 picture-caption: from pexels.com
 ---
 
