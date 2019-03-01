@@ -13,7 +13,7 @@ Our Improv community is still young and troupes rarely produce any promotional m
 
 # Tool of choice
 
-YouTubers choice seems to be [Final Cut](https://www.apple.com/lae/final-cut-pro/) (Mac only) or [Premiere] (https://www.adobe.com/products/premiere.html), the latter also offering tools to edit clips from your phone.
+YouTubers choice seems to be [Final Cut](https://www.apple.com/lae/final-cut-pro/) (Mac only) or [Premiere](https://www.adobe.com/products/premiere.html), the latter also offering tools to edit clips from your phone.
 
 I opted for [LightWorks](https://www.lwks.com/) instead. Why? Their free version doesn’t have a time limit, and it covers all my needs. There are enough tutorials online to guide you through the first steps. I am in love with their workflow now!
 
@@ -33,7 +33,7 @@ Here you can see a list of resources. I am in a low budget, so I only use free c
 
 ## Free Stock videos
 
-[Pexels videos] (https://videos.pexels.com/) is a gold mine for me. Commercial license with no attribution required (but encouraged!), and they look professional! I usually use a short clip as a silly intro, just adding text making a joke or premise.
+[Pexels videos](https://videos.pexels.com/) is a gold mine for me. Commercial license with no attribution required (but encouraged!), and they look professional! I usually use a short clip as a silly intro, just adding text making a joke or premise.
 
 I also found winners on [Pixabay](https://pixabay.com/videos/). [StockFootage](https://www.stockfootageforfree.com/) has epic shots from nature if that is your cup of tea!
 
@@ -41,7 +41,7 @@ Paid option: [Shutterstock videos](https://www.shutterstock.com/video) seems to 
 
 ## Free Stock Music
 
-[Besound] (https://www.bensound.com/ ) is where I have found my favorite background music. They have a short selection, but the quality is amazing.
+[Besound](https://www.bensound.com/ ) is where I have found my favorite background music. They have a short selection, but the quality is amazing.
 
 There are many [youtube channels](https://www.youtube.com/watch?v=TrvvBrNWhDQ) that offer music without copyright, or you can also search the [free music library](http://freemusicarchive.org/search/?adv=1&quicksearch=&search-genre=Jazz&only-instrumental=1&duration_from=&duration_to=&music-filter-CC-attribution-only=on&music-filter-CC-attribution-sharealike=1&music-filter-CC-attribution-noncommercial=1&music-filter-CC-attribution-noncommercial-sharealike=1&music-filter-public-domain=1&music-filter-remix-allowed=1)
 
