@@ -3,8 +3,8 @@ layout: page
 title: Bare necessities next to the ICC
 subtitle: Don't panic!
 bigimg: /img/survive-in-cph/iccfront.jpeg
-share-img: https://improv.ginogalotti.com/improv/img/survive-in-cph/iccfront.jpeg
-picture-caption: from lonelyplanet
+share-img: https://improv.ginogalotti.com/img/survive-in-cph/iccfront.jpeg
+picture-caption: from google
 # Add some way to receive notifications when a new email happens 
 ---
 
@@ -61,12 +61,12 @@ Most places before should offer some Vegetarian option, but if you prefer someth
 + **Riz Raz** - [Map](https://goo.gl/maps/JhEy8WKxsQw) - 120kr(14€) for the salad buffet  
   It is a _Mediterranean_ cuisine place with amazing meat dishes and a nice vegetarian salad buffet (cheaper for lunch). It has amazing hummus, pretty nice falafel, lasagna and plenty of salads. I prefer the other location, but it is 5 minutes further.
 
-# I am hungry, but I want to avoid animal products
+# My sweet tooth is having some cravings
 
 Oh. Dear. I get you. No judgement. When people come to visit, they love having some cinnamon-stuffed pastries that you can find everywhere! Sadly, my favourite choices are not around the theatre, but we have some nice options!
 
 + **Lagkagehuset** - [Map](https://goo.gl/maps/8vwHwRCvzk62) - 50kr(6.7€) for a pastry  
-  Among the franchised-bakeries, this is my favourite one. It is not on the affordable side, but the quality is really good. I would recommend some of the kanelsnegle (cinamon rolls), but just go and feel inspired. If you want to go loca, brunsviger has an unique taste (tons of brown sugar).
+  Among the franchised-bakeries, this is my favourite one. It is not on the affordable side, but the quality is really good. I would recommend some of the kanelsnegle (cinamon rolls), but just go and feel inspired. If you want to go local, brunsviger has an unique taste (tons of brown sugar).
 
 + **Emmerys** - [Map](https://goo.gl/maps/Ek3AUf1zziF2) - 50kr(6.7€) for a pastry  
   This organic bakery also have nice options, and it is way closer to the theatre. Personally, I prefer Lagkagehuset, but I wouldn't say no if you decide to invite me for something nice from here; and sometimes you get pastries as part of the [TooGoodToGo](https://toogoodtogo.com/en) deal at 6pm (only 30kr/3.5€). It is a hit or miss, tho.

@@ -3,7 +3,7 @@ layout: page
 title: Survival guide to CPH
 subtitle: We have your back
 bigimg: /img/survive-in-cph/nyhavn.jpg
-share-img: https://improv.ginogalotti.com/improv/img/survive-in-cph/nyhavn.jpg
+share-img: https://improv.ginogalotti.com/img/survive-in-cph/nyhavn.jpg
 picture-caption: from lonelyplanet
 # Add some way to receive notifications when a new email happens 
 ---
