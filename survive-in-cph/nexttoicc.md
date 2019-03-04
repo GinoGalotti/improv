@@ -43,7 +43,7 @@ A short list of _pizzas_ nearby. My Italian family forces me to use italics to r
 - **Affordable version** - [Map](https://goo.gl/maps/wXrgqXfbQbP2) - 50kr(6.7€) for pizza/panino - It fills you. They have a nice selection. The sandwiches are HUGE.
 - **Gorms** - [Map](https://goo.gl/maps/8wLv8BVPK4o) - 120kr(14€) for pizza - A nice treat if you think you deserve a date (with or without company). Nice pizza, but be prepared to wait.
 
-### Burgers 
+### Burger 
 
 A short list of burgers places nearby.
 
