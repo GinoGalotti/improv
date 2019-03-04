@@ -12,7 +12,7 @@ picture-caption: from lonelyplanet
 
 We will also include a external list of the _must see in CPH_, but this are just the personal recommendations that we usually give on demand (but on an easy-to-share form). If you feel outraged that because something is missing, feel free to tell me on me@ginogalotti.com; and I will include it!
 
-+ [The super touristy stuff (from Visitcopenhagen.com)](https://www.visitcopenhagen.com/copenhagen/sightseeing/top-30-attractions)
++ [The super touristy stuff (from Visitcopenhagen.com)](https://www.visitcopenhagen.com/copenhagen/sightseeing/top-30-attractions).  
   I know, your instagram feed will suffer if you don't take some pics there!
 
 # Our List
@@ -28,7 +28,7 @@ We will also include a external list of the _must see in CPH_, but this are just
 
 + [Staying longer, and want inspiration to do on a day?](/survive-in-cph/spareday).  
   Here we will share some 1-day plans to get inspired if you staylonger.
-  
+
 + [You just want to have fun and get wasted?](/survive-in-cph/toparty).  
   YOLO!
   
