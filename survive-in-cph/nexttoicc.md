@@ -30,20 +30,26 @@ Let's see some fast to-go options and a few sitting down ones
 + **Slice of SF** - [Map](https://goo.gl/maps/RxSm6U1WzS82) - 120kr(14€) for a meal 
   They offer burritos, salads and sandwiches. The burritos are pretty nice (and very filling), although I would not expect a traditional Mexican experience. As I will mention down below, they also offer one of the best plain cheesecakes I have had.
 
-* **Burgers** - A short list of burgers places nearby.
-- **Max** - [Map](https://goo.gl/maps/SfwMV9d5aLH2) - 130kr(15€) for menu - Fast food with nice Veggie options.
-- **Bronx** - [Map](https://goo.gl/maps/JS33XrciCZr) - 120kr(14€) for menu - I like their sweet potatoes. They have a nice variety, and very close.
-- **Hungry Dane** - [Map](https://goo.gl/maps/4KNS5S3QodC2) - 120kr(14€) for menu - They have pulled-pork and similar burgers. Don't like it personally, but many love it.
-
 + **Kebab** - [Map](https://goo.gl/maps/ervyYkADadm) - 40kr(5.5€) for durum  
   Nothing for filling than a kebab before going on stage! This is a really simple one, but it makes it for me, and it's quite affordable.
 
-* **Pizza** - A short list of _pizzas_ nearby. My Italian family forces me to use italics to refer to this version of their national dish. 
++ **Noodle box** - [Map](https://goo.gl/maps/YxMMuL5WjqM2) - 100kr(12€) for box  
+  Very simple noodle box with an OK-size portion.
+
+### Pizza
+
+A short list of _pizzas_ nearby. My Italian family forces me to use italics to refer to this version of their national dish. 
+
 - **Affordable version** - [Map](https://goo.gl/maps/wXrgqXfbQbP2) - 50kr(6.7€) for pizza/panino - It fills you. They have a nice selection. The sandwiches are HUGE.
 - **Gorms** - [Map](https://goo.gl/maps/8wLv8BVPK4o) - 120kr(14€) for pizza - A nice treat if you think you deserve a date (with or without company). Nice pizza, but be prepared to wait.
 
-+ **Noodle box** - [Map](https://goo.gl/maps/YxMMuL5WjqM2) - 100kr(12€) for box  
-  Very simple noodle box with an OK-size portion.
+### Burgers 
+
+A short list of burgers places nearby.
+
+- **Max** - [Map](https://goo.gl/maps/SfwMV9d5aLH2) - 130kr(15€) for menu - Fast food with nice Veggie options.
+- **Bronx** - [Map](https://goo.gl/maps/JS33XrciCZr) - 120kr(14€) for menu - I like their sweet potatoes. They have a nice variety, and very close.
+- **Hungry Dane** - [Map](https://goo.gl/maps/4KNS5S3QodC2) - 120kr(14€) for menu - They have pulled-pork and similar burgers. Don't like it personally, but many love it.
 
 # I am hungry, but I want to avoid animal products
 
