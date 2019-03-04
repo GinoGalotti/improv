@@ -23,13 +23,13 @@ We will also include a external list of the _must see in CPH_, but this are just
 + [Do you fancy a bite?](/survive-in-cph/toeat).  
   If you want to explore a little bit further, here is a _absolutely-non-biased_ curated list of places we like.
 
-+ [Something to do on a spare afternoon?](/survive-in-cph/spareafternoon).  
++ **WIP!**[Something to do on a spare afternoon?](/survive-in-cph/spareafternoon).  
   Some things to do when you have some spare hours and you like a little taste of the city.
 
-+ [Staying longer, and want inspiration to do on a day?](/survive-in-cph/spareday).  
++ **WIP!**[Staying longer, and want inspiration to do on a day?](/survive-in-cph/spareday).  
   Here we will share some 1-day plans to get inspired if you staylonger.
 
-+ [You just want to have fun and get wasted?](/survive-in-cph/toparty).  
++ **WIP!**[You just want to have fun and get wasted?](/survive-in-cph/toparty).  
   YOLO!
   
 
