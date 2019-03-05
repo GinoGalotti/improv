@@ -3,8 +3,7 @@ layout: page
 title: Want to experience the city in an afternoon?
 subtitle: Let's take some snaps for instagram
 bigimg: /img/survive-in-cph/cph-panorama.jpg
-share-img: https://improv.ginogalotti.com
-/img/survive-in-cph/cph-panorama.jpg
+share-img: https://improv.ginogalotti.com/img/survive-in-cph/cph-panorama.jpg
 picture-caption: from lonelyplanet
 # Add some way to receive notifications when a new email happens 
 ---
