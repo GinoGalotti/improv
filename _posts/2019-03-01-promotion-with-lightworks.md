@@ -3,7 +3,7 @@ layout: post
 title: Let's talk promotion - basic editing to make promotional videos
 bigimg: /img/posts/edition.jpg
 share-img: https://improv.ginogalotti.com/img/posts/edition.jpg
-tags: Promo 
+tags: [Promotion] 
 picture-caption: from unsplash.com
 ---
 

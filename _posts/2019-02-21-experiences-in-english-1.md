@@ -3,7 +3,7 @@ layout: post
 title: Your experiences improvising in a second language - Being more inclusive
 bigimg: /img/posts/red-curtains.jpg
 share-img: https://improv.ginogalotti.com/img/posts/red-curtains.jpg
-tags: Improv-in-English
+tags: [Improv-in-English]
 picture-caption: from unsplash.com
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Doing improv outside of your mother tongue
 bigimg: /img/posts/uk-and-usa.jpg
 share-img: https://improv.ginogalotti.com/improv/img/posts/uk-and-usa.jpg
-tags: Improv-in-English, Discussion
+tags: [Improv-in-English, Discussion]
 picture-caption: from pexels.com
 ---
 

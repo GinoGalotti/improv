@@ -3,7 +3,7 @@ layout: post
 title: Your experiences improvising in a second language - Lessons
 bigimg: /img/posts/red-curtains-2.jpg
 share-img: https://improv.ginogalotti.com/img/posts/red-curtains-2.jpg
-tags: Improv-in-English
+tags: [Improv-in-English]
 picture-caption: from unsplash.com
 ---
 

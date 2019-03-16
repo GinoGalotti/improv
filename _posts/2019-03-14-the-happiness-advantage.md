@@ -3,7 +3,7 @@ layout: post
 title: Lessons from The Happiness Advantage
 bigimg: /img/posts/happy-boy.jpg
 share-img: https://improv.ginogalotti.com/img/posts/happy-boy.jpg
-tags: Book-lessons
+tags: [Lessons-from-books, Improve]
 picture-caption: from unsplash.com
 ---
 
