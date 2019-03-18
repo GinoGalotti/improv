@@ -11,3 +11,7 @@ This website uses Google Analytics. This happens only if you approve third party
 ## Facebook Comments
 
 You can read more about it on [their website](https://www.facebook.com/about/privacy/). We use Facebook as our provider for comments on the site. You can always block the facebook cookie using many plugins or just simply [following this guide](https://www.wired.co.uk/article/how-to-disable-facebook-cookies).
+
+## MailChimp
+
+I am using Mailchimp for mail listing. In line with GDPR, you can request to be deleted from the mailing list at any point through MailChimp ubsubscribe option (on every email) or by sending an email to me@ginogalotti.com. By clicking below to subscribe, you acknowledge that your information will be transferred to Mailchimp for processing. [Learn more about Mailchimp's privacy practices here.](https://mailchimp.com/legal/)
