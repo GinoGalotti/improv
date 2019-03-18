@@ -10,6 +10,8 @@ picture-caption: looks pretty nice for my first logo, doesn't it?
 
 If you want to be notified when I write a new post, this is the right (and only) way to do it!
 
+Before doing it, remember to check our (very concised) [Privacy Policy](/privacy/).
+
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
