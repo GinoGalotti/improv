@@ -8,6 +8,7 @@ picture-caption: from my Youtube Vlog!
 ---
 
 > "Uhh, you are doing improv, aren't you? So you have learn how to be funny, then?"
+
 I have heard that question a thousand times and the answer is pretty simple: **Improv has not made me funnier in any way, but it has enhanced many aspects of my life**. Today I want to share with you ways that improv improve my relationships.
 
 **Disclaimer**: This post is a transcription of [my my youtube video](https://youtu.be/0LyCY2oD5d0). I recorded myself to improve my diction, and as part of the exercise I used a tool to transcribe the audio to find where I did not enunciate. This way I can also add the things I missed on the video. I am also conscious about my accent and I care about this message; so I wanted to make it more accessible by writing it down (although I tried to keep the same voice by barely editing it).
