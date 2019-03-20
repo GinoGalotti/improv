@@ -106,7 +106,7 @@ In our troupe there are men of all across the board in terms of physique and att
 
 # Resources
 
-[Katty Schutte about Yes and and Metoo](http://www.katyschutte.co.uk/improvblog/how-yes-and-changed-with-metoo-and-why-pimping-has-had-its-time) and [her post about women supporting each other](http://www.katyschutte.co.uk/improvblog/i-got-your-back-ladies)
+[Katy Schutte about Yes and and Metoo](http://www.katyschutte.co.uk/improvblog/how-yes-and-changed-with-metoo-and-why-pimping-has-had-its-time) and [her post about women supporting each other](http://www.katyschutte.co.uk/improvblog/i-got-your-back-ladies)
 
 [Hoopla's guidelines for a safe improv community](https://www.hooplaimpro.com/code-of-conduct-teachers.html)
 
