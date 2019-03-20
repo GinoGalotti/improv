@@ -65,4 +65,4 @@ If you have any question, don't  hesitate and contact me! I am also improivising
 
 I made the commitment with myself that the day I reach 1000 susbcribers, I will park everything and spend months backpacking around Europe (or hopefully the globe) enjoying different improv theatres in different cultures and languages, all while docummenting it here! 
 
-Remember to activate the subscription from your email after signing up. Don't worry, I promise I have **no intention on selling this emails**. I am just happy you want to hear more about my improv journey!
+Remember to activate the subscription from your email after signing up. Don't worry, I promise I have **no intention on upselling this mailing list**. I am just happy you want to hear more about my improv journey!
