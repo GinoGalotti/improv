@@ -121,3 +121,5 @@ I am eternally grateful to all the women who share their stories, but I only rea
 The comment section of this blog is open or, if you would prefer to share it anonymously, my email is always open (me@ginogalotti.com). 
 
 Thank you for sharing this, I honestly believe our community will grow if we do it together.
+
+I am planning to keep learning and making interviews to understand how to make Improv more inclusive (for women, for [non-native English speakers]({{ site.baseurl }}{% post_url 2019-02-02-improv-in-english %}), etc.). If you are interested, please consider [subscribing to the maillist](/subscribe).
