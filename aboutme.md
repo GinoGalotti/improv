@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want me as your coach
+subtitle: And my journey
 bigimg: /img/gino_cover_lowres_dark.jpg
 share-img: https://improv.ginogalotti.com/improv/img/gino_cover_lowres_dark.jpg
 picture-caption: is me pretending to look fancy
