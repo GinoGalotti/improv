@@ -19,9 +19,9 @@ What else do you need?
 
 ### Improv experience
 
-[Here](/theatrebackground) I wrote a little bit of my improv theatres and my experiences on the classes.
+[I wrote](/theatrebackground) a little bit of my improv theatres and my experiences on the classes.
 
-Besides the shows that are part of our theatre, I started performing with a close friend on a set called Two Manly Men. You can learn more about it here (Work in Progress).
+Besides the shows that are part of our theatre, I started performing with a close friend on a set called Two Manly Men. You can see [one of our shows](https://youtu.be/m8lprpjlJqY).
 
 I also have started to help with the promotion material of the shows, taking [pictures](/show-pics) with [my new baby](https://amzn.to/2UckBVQ); as well as creating some short videos.
 
@@ -29,4 +29,4 @@ I also have started to help with the promotion material of the shows, taking [pi
 
 I was born in Tenerife, although no one knows why I ended up in one of the coldest places on Earth. I still keep my funny accent. If you want to know more, just ask.
 
-I also write [here](https://callmegino.wordpress.com/) about other non-improv things.
+I also [write](https://callmegino.wordpress.com/) about other non-improv things.
