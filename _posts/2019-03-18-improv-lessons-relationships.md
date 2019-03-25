@@ -41,7 +41,7 @@ You will going to learn from everyone and it is easy to build a connection and f
 
 I used to be really awkward in social situations when didn't know anyone, and now I understand how to build a connection with someone even if you don't have that much in common. This is something that I have trained myself though so many scenes!
 
-# The organic opening.
+# The organic opening
 
 The last lesson I want to focus on involved one of the weirdest (or at least one that I struggle with) concept of improv, the organic opening. It is something that I am still learning to master, but there is an aspect of my life where the organic opening is having a huge impact: my intimacy.
 
