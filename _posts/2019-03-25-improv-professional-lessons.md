@@ -1,8 +1,8 @@
 ---
 layout: post
 title: How learning Improv affected my professional career
-bigimg: /img/posts/work-vlog.png
-share-img: https://improv.ginogalotti.com/img/posts/work-vlog.png
+bigimg: /img/posts/work-vlog.jpg
+share-img: https://improv.ginogalotti.com/img/posts/work-vlog.jpg
 tags: [Life-lessons-from-improv, Transcript]
 picture-caption: from my Youtube Vlog!
 ---
