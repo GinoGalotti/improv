@@ -114,6 +114,8 @@ In our troupe there are men of all across the board in terms of physique and att
 
 [Non discrimination and anti harassment policy example (Baltimore)](http://www.bigimprov.org/non-discrimination-and-anti-harassment.html)
 
+[A really interesting talk with Amy Seham about women in Improv (2014)](https://www.youtube.com/watch?v=Tl6Ulp9KTXc)
+
 # What is your story?
 
 I am eternally grateful to all the women who share their stories, but I only reach a minuscule percentage. I would love to learn from your experiences: both from your horror stories so we can understand the extent of the issue, and what is working in your community to inspire us. 
