@@ -2,7 +2,8 @@
 layout: page
 title: About me
 subtitle: And my journey
-share-img: https://improv.ginogalotti.com/improv/img/gino_cover_lowres_dark.jpg
+bigimg: /img/gino_cover_lowres_dark.jpg
+share-img: https://improv.ginogalotti.com/img/gino_cover_lowres_dark.jpg
 picture-caption: is me pretending to look fancy
 ---
 

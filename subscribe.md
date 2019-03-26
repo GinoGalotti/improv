@@ -2,17 +2,15 @@
 layout: page
 title: Subscribe
 subtitle: Become part of the assembly!
-bigimg: /img/bg/facebook_cover_photo_2.png
-share-img: https://improv.ginogalotti.com/improv/img/bg/facebook_cover_photo_2.png
+bigimg: /img/me-waiting.jpg
+share-img: https://improv.ginogalotti.com/img/me-waiting.jpg
 picture-caption: looks pretty nice for my first logo, doesn't it?
 # Add some way to receive notifications when a new email happens 
 ---
 
-If you want to be notified when I write a new post, this is the right (and only) way to do it!
+Join our mailing list if you want to be notified when I write a new post!
 
-Before doing it, remember to check our (very concised) [Privacy Policy](/privacy/). Living in Europe, I have all also added all the elements required by GDPR, letting you decide what do you want to sign up for. I have no plan on doing any kind of email marketing (besides promoting my posts), but I am required to ask for explicit permissions just in case.
-
-If you have any question, don't  hesitate and contact me! I am also improivising this to the best of my abilities.s
+Remember to activate the subscription from your email after signing up! I'm on Europe, so to be GDPR compliant you can opt in any of the options you would like o recieve. I only plan to use the service to notify when a new post publishes in the foreseable future!
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -62,7 +60,8 @@ If you have any question, don't  hesitate and contact me! I am also improivising
 </div>
 
 <!--End mc_embed_signup-->
+In case you wonder, I compiled a very concised version of our [Privacy Policy](/privacy/). Living in Europe, I have all also added all the elements required by GDPR, letting you decide what do you want to sign up for. I have no plan on doing any kind of email marketing (besides promoting my posts), but I am required to ask for explicit permissions just in case.
 
 I made the commitment with myself that the day I reach 1000 susbcribers, I will park everything and spend months backpacking around Europe (or hopefully the globe) enjoying different improv theatres in different cultures and languages, all while docummenting it here! 
 
-Remember to activate the subscription from your email after signing up. Don't worry, I promise I have **no intention on upselling this mailing list**. I am just happy you want to hear more about my improv journey!
+I am just happy you want to hear more about my improv journey!

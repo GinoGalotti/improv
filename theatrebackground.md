@@ -3,7 +3,7 @@ layout: page
 title: Theatre background
 subtitle: A little piece of my improv story
 bigimg: /img/profile.jpg
-share-img: https://improv.ginogalotti.com/improv/img/profile.jpg
+share-img: https://improv.ginogalotti.com/img/profile.jpg
 picture-caption: is me performing at the ICC
 # Add some way to receive notifications when a new email happens 
 ---
