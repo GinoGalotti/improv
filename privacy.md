@@ -1,7 +1,7 @@
 Privacy Policy
 ====================
 
-# How we proceed your data
+# How we process your data
 This website is powered by Jekyll, with a domain from Namecheap, comments powered by Facebook and is hosted on GitHub. Github (like any hosting company) can have full insight in visitor data, like connecting IP addresses, visited pages, etc. Note that Github is not known to actively profile visitors. By using a VPN you can (try to) prevent this.
 
 ## Google Analytics
