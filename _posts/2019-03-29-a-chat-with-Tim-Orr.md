@@ -45,7 +45,7 @@ _"I prepare workshops a little different from a lot of improvisers because of my
 
 _"Whenever I’m teaching a group of people with different levels of English, I say ‘raise your hand right away if you don’t understand me"_. Clarity is crucial when teaching international teams. As he said, _"it’s not fun to be in a workshop where you don’t know what’s going on"_.
 
-Tim shared one of his experiences teaching people with different levels of comfort in English. _"Running a workshop, I identified two people whose English wasn’t great"_, he told me when asked about how to make the experience more inclusive. _"They seemed to struggle with the language. I approached others whose English was fantastic, and they were strong improvisers and paired them up"_. Explain why you encourage them to work together! Helping others have a great time is part of a good improviser’s toolkit!
+Tim shared one of his experiences teaching people with different levels of comfort in English. _"Running a workshop, I identified two people whose English wasn’t great"_, he told me when asked about how to make the experience more inclusive. _"They seemed to struggle with the language. I approached others whose English was fantastic, and they were strong improvisers and paired them up"_. I agree, explain why you encourage them to work together is very important. Helping others have a great time is part of a good improviser’s toolkit!
 
 It is important that we take language into consideration when planning your first international workshop. _"It’s our responsibility to be proactive and make people feel safe so they can speak up"_, he shared. It is important to learn how to make people feel comfortable, both as teachers and fellow improvisers.
 
