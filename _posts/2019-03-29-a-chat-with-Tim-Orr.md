@@ -41,7 +41,7 @@ _"You have to be careful to not to drive. You can easily bulldoze the scene, but
 
 # Running workshops
  
-_"I prepare workshops a little different from a lot of improvisers because of my coaching background. I plan my workshops a lot". Tim has been running workshops for several decades now. He likes to plan the time the group will spend on some exercises and review how it went after. But he considers many details. 
+_"I prepare workshops a little different from a lot of improvisers because of my coaching background. I plan my workshops a lot"_. Tim has been running workshops for several decades now. He likes to plan the time the group will spend on some exercises and review how it went after. But he considers many details. 
 
 _"Whenever I’m teaching a group of people with different levels of English, I say ‘raise your hand right away if you don’t understand me"_. Clarity is crucial when teaching international teams. As he said, _"it’s not fun to be in a workshop where you don’t know what’s going on"_.
 
