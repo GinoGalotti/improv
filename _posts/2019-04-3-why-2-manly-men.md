@@ -7,7 +7,7 @@ tags: [2MM, My-shows]
 picture-caption: us after one of our first performances
 ---
 
-For the last months, I have been performing a set where two men share a moment of connection. We asked the audience when was the last time they had a deep conversation with another man and, inspired by that, we open ourselves on stage. We call it “Two Manly Men”.
+For the last months, I have been performing a set where two men share a moment of connection. We asked the audience when was the last time they had a deep conversation with another man and, inspired by that, we open ourselves on stage. We call it _Two Manly Men_.
 
 I want to explore in this post why do we think this is so important, and what does it mean to us. You can check [some of our shows](https://www.youtube.com/playlist?list=PLrDyOWLZwlAwR4QcwPo0934viwKQyGnXC).
 
