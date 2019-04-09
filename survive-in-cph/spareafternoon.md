@@ -10,6 +10,8 @@ picture-caption: from lonelyplanet
 
 You are here already. You are a person with a mission, but you are in Copenhagen anyway, so why don't get a little taste of the city? Let's get some snaps so your Instagram feed believes you came to Denmark!
 
+**TIP**: If you're planning to visit Tivoli, feel free to ask around because some of us have Year Tivoli cards. Even if they are personal, there are ways to use lend them. Feel free to [poke me on Facebook](https://www.facebook.com/gino.guay).
+
 This is not an extensive list by any means. If you want to check the must sees, please consult any official guide like [VisitCopenhagen](https://www.visitcopenhagen.com/copenhagen/sightseeing/see-do) or [LonelyPlanet](https://www.lonelyplanet.com/denmark/copenhagen). If you are up for an adventure, you can even use [Atlas Obscura](https://www.atlasobscura.com/things-to-do/copenhagen-denmark).
 
 Here I am going to share the things I recommend my guests outside of the main areas, in case you want to feel inspired!
