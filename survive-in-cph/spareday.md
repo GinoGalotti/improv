@@ -38,3 +38,5 @@ Assumming you're not from EU, of course. There is no passport stamps here!
 # None of these is what you were looking for? 
 
 Don't be afraid! Ask around! We are more than welcomed to help you on anything, and it can be an amazing way to break the ice. If you think that I am missing a MUST HAVE on the list, feel free to drop me an email me@ginogalotti.com
+
+Also, poke me [on Facebook](https://www.facebook.com/gino.guay) if you need a quick answer (or a pointer to a better person to ask).
