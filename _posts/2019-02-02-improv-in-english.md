@@ -15,6 +15,8 @@ I am not talking about the obvious, like feeling less comfortable with accents o
 
 As a very short background (you can read [the long version here](/theatrebackground/)): I’m Gino, a Spaniard who started improvising in Denmark. On my first class, there were 3 Danes, 2 native English-speakers and 10 from everywhere else. When I graduated, a third were Danes and a third were native speakers. Can we avoid such a big drop out of non-native speakers? Can we support them so we have a more diverse cast?
 
+**EDIT**: If you want, you can check [experiences shared by you focusing on inclusivity]({{ site.baseurl }}{% post_url 2019-02-21-experiences-in-english-1 %}) or [lessons you have learnt]({{ site.baseurl }}{% post_url 2019-03-07-experiences-in-english-2 %})
+
 # How is improvising outside our mother tongue affecting us?
 
 I ask myself this question all the time.
