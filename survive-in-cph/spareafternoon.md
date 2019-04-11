@@ -39,6 +39,19 @@ I would encourage you to try some of the Spa experiences but I don't have any pa
 + **The Harbour** - [Map](https://goo.gl/maps/2CmH6co4La32) - Free  
   During the (week of) Summer, I love coming to this structure and jumping head first to the water. It is perfectly safe and quite magical being in a city where I can just do that. The city spent a lot of money and time cleaning the waters of the harbour so people could enjoy them at any point.
 
+# So you want MORE improv
+
+The ICC has shows every evening on two mainstages, and you probably have a hefty discount to see them! In case you want to check more improv in the city, you have
+
++ **Steel House** - [Facebook event](https://www.facebook.com/events/305026306791109/) - Free  
+  A group of friends starteed this community driven humble Improv night where students and members from different Improv communities come to have a show! It usually starts with a 2-prov set, followed by a variety of groups like: experienced Danish improvisers having an English shows, Short Form games from students, or Jams!
+
++ **Yes Hat** - [Facebook event](https://www.facebook.com/events/1665775283730020/) - Pay as you want  
+  They have been doing improv for MANY years, but recently they started performing in English once a month. They have a band, a cool theatre and they perform Musical Improv with plenty of sound effects! You can have a chat with them afterwards, they have brought teachers to give workshops if that's what you want!
+
++ **Improv at 1420** - [Facebook event](https://www.facebook.com/events/349768462325177/) - 20kr
+  I haven't seen them yet, but they are performing some short form every Wednesday at this bar! I really like the people organising it!
+
 # So you want a museum
 You have the regulars: [National Museum](https://goo.gl/maps/nvNmVG9Cfbz) with story and culture, [Glyptotek](https://goo.gl/maps/khJidffJwvR2) as Carlsberg's private art collection, [SMK](https://goo.gl/maps/8pD7XcXuBY12) as an art gallery and the [Danish Design Museum](https://goo.gl/maps/NFSiXHLuCFU2) if you want a dip on Denmark's biggest export (besides beer). If your jam is modern art, you can take a 40 minutes train to [Louisiana](https://goo.gl/maps/dJM4X2z1x3P2).
 
