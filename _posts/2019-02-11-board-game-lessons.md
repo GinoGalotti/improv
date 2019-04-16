@@ -3,7 +3,7 @@ layout: post
 title: Board games to improve your improv (or just to have fun)
 bigimg: /img/posts/dice-in-hand.jpg
 share-img: https://improv.ginogalotti.com/img/posts/dice-in-hand.jpg
-tags: [Board-Game, Improve]
+tags: [Board-Game, Resources, Inspiration]
 picture-caption: from pexels.com
 ---
 
