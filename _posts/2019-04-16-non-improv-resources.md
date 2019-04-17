@@ -9,7 +9,7 @@ picture-caption: from unsplash
 
 I am not an actor, so most of the characters I create come from me, and I love that! It makes it pretty easy to know how to create better and more rounded characters: I just need to learn more about everything!
 
-Some days ago someone asked for non-Improv resources that will improve your Improv game; and I got SO inspired that I decided to compile some of them and add my personal ones! 
+Some days ago someone asked for non-Improv resources that will improve your Improv game; and I got SO inspired that I decided to compile some of them and added my personal ones! 
 
 So here I leave you 5 resources that some improvisers find helpful!
 
@@ -25,9 +25,9 @@ And that will always make the scene better!
 
 I can’t bring accents nor pop culture references to my theatre (as I am an expat and I barely speak English); but I can bring plenty of trivia and real-world references.
 
-When I was a teenager, I used to spend my afternoons clicking _random page_ in Wikipedia to discover new interesting topics I might want to learn. It helped me to feel comfortable talking about a big range of topics, which turns to be very helpful in Improv.
+When I was a teenager, I used to spend my afternoons clicking _random page_ in Wikipedia to discover new interesting topics I might want to learn. It helped me to feel comfortable talking about a big range of topics, which turns out to be very helpful in Improv.
 
-Being specific and being able to list details and nuances from a topic will enhance your shows dramatically. Even if a very small portion of the audience is able to fully enjoy the reference, you can count that they will have a blast. 
+Being specific and being able to list details and nuances from a topic will enhance your shows. Even if a very small portion of the audience is able to fully enjoy the reference, you can count that they will have a blast. 
 
 Some of my best memories involve making jokes that only a handful of people could understand, but they felt SO included because of it!
 
@@ -45,7 +45,7 @@ I love board games, and I have already talked in length about them; one can’t 
 
 Many board games are amazing to build and create silly situations, and I find it SO inspiring! I can’t help but think of playing _lines from a pocket_ with Cards Against Humanity cards!
 
-Spending time with your assembly will always improve your game on stage. And games are such a fun way to discover more facets of them!
+Spending time with your ensemble will always improve your game on stage. And games are such a fun way to discover more facets of them!
 
 # [Ted Talks](https://www.ted.com/talks)
 
